@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔬 ROMAL — Single vs Multi-Agent Research Comparison Tool
 
 **Proof-of-concept project for the research paper:**
@@ -111,3 +112,6 @@ comparison-tool/
 ---
 
 *Built as a reference project for ROMAL Research Paper Submission · SRMU · 2026*
+=======
+# ROMAL
+>>>>>>> d5f9d02717d94d2729f6c898d8d584d6d8c2c130
